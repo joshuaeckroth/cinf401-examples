@@ -1,0 +1,5 @@
+florida-unemployment: http://www.icip.iastate.edu/tables/employment/unemployment-states
+florida-housing-permits: http://www.icip.iastate.edu/tables/housing/permits-states
+fl_crime: http://www.fdle.state.fl.us/cms/FSAC/Crime-Trends/Total-Index-crimes.aspx
+gdp: https://www.thebalance.com/us-gdp-by-year-3305543
+
